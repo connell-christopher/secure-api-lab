@@ -1,0 +1,13 @@
+{
+  "name": "jwt-secure-lab",
+  "version": "1.0.0",
+  "description": "Secure JWT authentication laboratory.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
